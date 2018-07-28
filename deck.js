@@ -29,10 +29,6 @@ class Deck {
     this.cardsOut.push(card)
     return card
   }
-
-  getCardsQuick (cards) {
-
-  }
 }
 
 module.exports = {

@@ -1,6 +1,9 @@
 class Hand {
   constructor () {
     this.cards = []
-    this.rating = 0
   }
+}
+
+module.exports = {
+  Hand: Hand
 }
